@@ -3,6 +3,7 @@ Build a generative AI-powered agent that automates weekly sales reports, compare
 # 🧠 Weekly Sales Report Agent — Lyzr AI Architect Challenge
 
 ## 📌 Overview
+**Agent Link:**https://studio.lyzr.ai/agent/687c55ad89681fa4f199bd1a
 
 This is a generative AI-powered agent built on **Lyzr Studio** as part of the **Lyzr AI Architect Challenge**. It automates the generation of weekly sales reports, analyzes trends, and provides cost-saving recommendations for enterprise teams.
 
